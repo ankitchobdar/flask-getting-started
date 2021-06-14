@@ -1,18 +1,1 @@
-[
-  {
-    "question": "Hello",
-    "answer": "Hola"
-  },
-  {
-    "question": "Goodbye",
-    "answer": "Adios"
-  },
-  {
-    "question": "Good Morning",
-    "answer": "Buenos días"
-  },
-  {
-    "question": "Good night",
-    "answer": "Buenas noches"
-  }
-]
+[{"question": "Hello", "answer": "Hola"}, {"question": "Goodbye", "answer": "Adios"}, {"question": "Good Morning", "answer": "Buenos d\u00c3\u00adas"}, {"question": "Good night", "answer": "buenas noches"}]
